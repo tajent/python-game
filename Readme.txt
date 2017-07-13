@@ -1,4 +1,4 @@
-After finishing 'Learn Python the Hard Way', I attempted an application given to me to complete. Due to publishing restrictions, it cannot be made public, so currently just making the README available.
+After finishing 'Learn Python the Hard Way' https://learnpythonthehardway.org/python3/, I was given an assignment to build an application as described below. Due to publishing restrictions, it cannot be made public, so currently just making the README available.
 
 System Requirements:
 --------------------
